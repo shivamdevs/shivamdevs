@@ -24,7 +24,9 @@
 ## 📨 Coming Up
 
 * Delay caller - call a bulk of functions after certain delays. Optimal for logging data
-* Cursor pointer - show html as something is being typed in screen by following cursor. Idea may follow delay caller 
+* Cursor pointer - show html as something is being typed in screen by following cursor. Idea may follow delay caller
+* Imagik - Same as old image editor project
+* Framer - same as loadFrame project
 
 ## 🛠️ Languages and Tools
 <div>
