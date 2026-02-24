@@ -1,48 +1,51 @@
 # 👋 Hi, I’m Shivam Dewangan
 
-[![](https://visitcount.itsvg.in/api?id=shivamdevs\&pretty=true)](https://visitcount.itsvg.in/api?id=shivamdevs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/shivamdewangan)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter\&logoColor=white)](https://twitter.com/shivam0dewangan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel\&logoColor=white)](https://shivamdevs.com)
+**Full Stack Engineer | Engineering Lead**
 
-## 🚀 About Me
+[![](https://visitcount.itsvg.in/api?id=shivamdevs&pretty=true)](https://visitcount.itsvg.in/api?id=shivamdevs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamdevs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://shivamdevs.com)
 
-Full Stack Web Developer skilled in **Python, TypeScript, and cloud-native technologies**.
-I build **scalable backends, AI-driven systems, and data platforms** handling **10M+ records** with APIs optimized to sub-2s response times.
+## ⚡ Quick Bio
 
-## 🛠️ Skills
+I’m a product-focused **Founding Engineer** specializing in taking systems from zero to production. I currently lead an engineering pod, managing the full technical lifecycle—from **Infrastructure as Code** to **High-Scale Data Pipelines**.
 
-**Languages & Frameworks**
-`Python` · `TypeScript` · `JavaScript` · `Django` · `Node.js` · `Express.js`
+* 🔭 **Currently:** Architecting an enterprise data platform handling **10M+ records** with sub-2s API response times.
+* 🛠️ **Core Expertise:** Distributed Systems, Cloud-Native Architecture (AWS/K8s), and Automated ELT.
+* 👥 **Leadership:** Scaled a technical team from the ground up, conducting **20+ interviews** and mentoring a pod of 3 engineers.
+* 💼 **Background:** Part of a startup team successfully **acquired** and integrated into a major industry player.
 
-**Frontend Development**
-`Next.js` · `React.js` · `TailwindCSS` · `Astro`
+## 🛠️ Technical Arsenal
 
-**Databases & Data**
-`PostgreSQL` · `MongoDB` · `MySQL` · `Firebase` · `AWS Athena`
+**Backend & Data Engineering**
+`Python (Django, FastAPI)` · `TypeScript` · `Node.js` · `Deno` · `PostgreSQL` · `Dagster` · `Celery` · `AWS Athena`
 
-**Cloud & DevOps**
-`AWS (S3, Lambda, Athena)` · `Docker` · `Kubernetes` · `Jenkins` · `GitHub` · `Git`
+**Frontend & Mobile**
+`Next.js` · `React` · `React Native` · `Tailwind CSS` · `Astro`
 
-**Data & AI Tools**
-`Dagster` · `Celery` · `ETL Pipelines` · `OpenAI API`
+**Cloud, DevOps & Infrastructure**
+`AWS (EKS, S3, EC2, Lambda)` · `Docker` · `Kubernetes` · `Jenkins` · `GitHub Actions` · `FinOps (Cost Optimization)`
 
-## 📊 GitHub Stats
+## 🏗️ Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=shivamdevs\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivamdevs\&theme=radical\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdevs\&theme=radical\&hide_border=false\&layout=compact)
+### ⚓ Webhooks (WebHook Tester)
+A real-time webhook inspection platform built to solve the lack of reliable internal testing tools. 
+* **Tech:** Next.js, Deno, PostgreSQL, WebSockets.
+* **Key Feature:** Low-latency request broadcasting for instant API debugging.
 
-## 🏆 Achievements
+### 📊 Data Platform
+Enterprise-grade data platform aggregating creator data from multi-source APIs.
+* **Tech:** AWS S3, Athena, Dagster, Python.
+* **Impact:** Handled **10M+ records** with optimized latency of **0.5–2s**.
 
-![](https://github-profile-trophy.vercel.app/?username=shivamdevs\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
-![](https://github-contributor-stats.vercel.app/api?username=shivamdevs\&limit=5\&theme=radical\&combine_all_yearly_contributions=true)
+## 📊 Stats & Impact
 
-## 🌐 Let’s Connect
+![](https://github-readme-stats.vercel.app/api?username=shivamdevs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdevs&theme=radical&hide_border=false&layout=compact)
 
-* Portfolio: [shivamdevs.com](https://shivamdevs.com)
-* LinkedIn: [linkedin.com/in/shivamdewangan](https://linkedin.com/in/shivamdewangan)
-* Twitter: [@shivam0dewangan](https://twitter.com/shivam0dewangan)
+## 🌐 Let’s Build Something Great
 
-✨ *“Taking projects from scratch to production with clean architecture, fast APIs, and scalable systems.”*
+* **Portfolio:** [shivamdevs.com](https://shivamdevs.com)
+* **LinkedIn:** [linkedin.com/in/shivamdewangan](https://linkedin.com/in/shivamdevs)
 
+*"Engineering is not just about writing code; it's about building scalable solutions that drive business value."*
